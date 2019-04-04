@@ -150,5 +150,8 @@ input|output|comments
 `X(8x2)(3x3)ABCY`|`XABCABCABCABCABCABCY`|decompressing the `(3x3)ABC` that we get in the first iteration
 `X(14x2)F(8x2)(3x3)ABCY`|`XFABCABCABCABCABCABCFABCABCABCABCABCABCY`|here are the intermediate steps:<br>`XF(8x2)(3x3)ABCF(8x2)(3x3)ABCY`<br>`XF(3x3)ABC(3x3)ABCF(3x3)ABC(3x3)ABCY`
 
-### Task 8: Road to success
+### Task 8: Into the future
 
+Your business now is booming. Even the mobile markets are yours, and there are no hackers that can face you. It is time to do what you wanted to do all this time. What was it?
+
+Create an application that does something that you want it to do.
