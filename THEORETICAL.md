@@ -1,3 +1,3 @@
-# Start IT Java group theoretical test 1
+# Start IT Java group theoretical test
 2019-04-05
 
