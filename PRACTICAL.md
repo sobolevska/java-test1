@@ -1,4 +1,5 @@
-# Start IT Java group test 1
+# Start IT Java group practical test
+2019-04-05
 
 ### Welcome, young grasshopper!
 
