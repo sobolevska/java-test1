@@ -59,3 +59,20 @@ input|output|comments
 `22-22`|`8`|2+2+2+2, because each digit (all 2) matches the next one (remember that the digits "loop" around and non-digits are ignored)
 `1234`|`0`|because no number matches the next one
 `HA-9121219`|`9`|because only the last nine matches the next digit (the first nine, and symbols are ignored)
+
+### Task 5: A glitch
+
+Oh, no! The mobile app is so successfull that hackers are now targeting it! They are using a vulnerability that exploits unmatched parenthesis! We must add an extra layer of security!
+
+Create an application that:
+- lets the user input a string of parenthesis
+- outputs if it is valid or not
+
+#### Examples:
+input|output|comments
+:-|:-:|:-
+`()`|`valid`|a single pair of matching parenthesis
+`(()())`|`valid`|inner pairs of parenthesis match and there is a matching outer pair
+`((()())`|`invalid`|there is one unmatched opened parenthesis
+`(()()(((()))()))`|`valid`|
+`((()()))))()`|`invalid`|there are a few unmatched closing parenthesis
