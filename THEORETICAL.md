@@ -40,3 +40,52 @@ Example:
 - b) JRE
 - c) JVM
 - d) JAR
+
+### 6. Can a computer have multiple operating systems installed?
+- a) yes
+- b) no
+
+## Operators.
+
+### 7. What is the value of `x` after the last line?
+```
+int x = 0;
+x++;
+```
+
+### 8. What is the value of `x` after the last line?
+```
+int x = 5;
+x = x * 3;
+```
+
+### 9. What is the value of `x` after the last line?
+```
+int x = 15;
+x %= 6;
+```
+
+### 10. What is the value of `x` after the last line?
+```
+int x = 0;
+x = ++x + x++;
+```
+
+### 11. What is the value of `x` after the last line?
+```
+boolean a = true;
+boolean b = false;
+boolean x = a || b;
+```
+
+### 12. What is the value of `x` after the last line?
+```
+boolean a = true;
+boolean b = false;
+boolean x = a && !b;
+```
+
+### 13. What is the value of `x` after the last line?
+```
+boolean x = false || true && 5 >= 5;
+```
