@@ -15,6 +15,8 @@ Example:
 ...
 ```
 
+Remember to save your answers, add the file, and commit, and push.
+
 **1. Which one of these is **not** an operating system?**
 - a) Android
 - b) IntelliJ Idea

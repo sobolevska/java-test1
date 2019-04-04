@@ -1,6 +1,8 @@
 # Start IT Java group practical test
 2019-04-05
 
+You can do the tasks in any order you please and organize the work hovever is most convenient to you. The only thing that matters is that all solutions should be visible inside your repository. Either as different projects and/or files, or as separate versions (commits) of the same file/project.
+
 ### Welcome, young grasshopper!
 
 Today you will create your own start-up business. *(Wait, wasn't this about programming or something?)*
