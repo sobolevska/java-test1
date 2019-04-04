@@ -102,7 +102,7 @@ Oh, no! The mobile app is so successfull that hackers are now targeting it! They
 
 Create an application that:
 - lets the user input a string of parenthesis
-- outputs if it is valid or not
+- outputs if it is properly matched or not
 
 #### Examples:
 input|output|comments
