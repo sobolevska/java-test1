@@ -8,13 +8,18 @@ You can do the tasks in any order you please and organize the work hovever is mo
 Today you will create your own start-up business. *(Wait, wasn't this about programming or something?)*
 
 My name is Tom and I will be your personal assistant on this journey.
-Like any good story, yours will also require a lot of logical thinking and problem solving skills. Your tools for the job are your brain and the Java programming language. As you encounter problems, think about them in an abstract manner, break them down into steps and sub-problems, and apply the toolset you have acquired over the last 1.5 weeks.
+Like any good story, yours will also require a lot of logical thinking and problem solving skills.
+Your tools for the job are your brain and the Java programming language.
+As you encounter problems, think about them in an abstract manner, break them down into steps and sub-problems,
+ and apply the toolset you have acquired over the last 1.5 weeks.
 
 Godspeed!
 
 ### Task 1: Grand opening!
 
-It is the first day of your new business. Time to do a grand opening! Sadly the robot that you hired to do meet-and-greet is broken. The main module is missing and it is up to you to write the core functionality and save the opening ceremony.
+It is the first day of your new business. Time to do a grand opening!
+Sadly the robot that you hired to do meet-and-greet is broken.
+The main module is missing and it is up to you to write the core functionality and save the opening ceremony.
 
 Create an application that:
 - greets the user and asks for their name
